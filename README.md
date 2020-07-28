@@ -2,9 +2,6 @@
 This is my repository for Data Structures using Python.
 This repository mainly aims at implementation of various Data Structures using Python.
 
-BALAN DHANKA,<br />
-Jaipur, India.<br />
-
 # Arrays
 
 * [Arrays Concept](https://github.com/balandhanka/Data-Structures-using-Python/blob/master/Arrays/Arrays.ipynb)
